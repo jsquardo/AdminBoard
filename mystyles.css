@@ -1,0 +1,44 @@
+body {
+  background-color: #282e38;
+}
+
+.tacenter {
+  text-align: center;
+}
+
+.orange {
+  color: #e76466;
+  font-size: 4.5rem;
+}
+
+.green {
+  color: #15cda8;
+  font-size: 4.5rem;
+}
+
+.yellow {
+  color: #f1eb9a;
+  font-size: 4.5rem;
+}
+
+.card-box {
+  margin-bottom: 0;
+}
+
+.card-box-shipped {
+  border-left: 0.5rem solid #15cda8;
+}
+
+.card-box-whouse {
+  border-left: .50rem solid #f1eb9a;
+}
+
+.card-box-ready {
+  border-left: 0.5rem solid #e76466;
+}
+
+.row-one,
+.row-two {
+  margin-bottom: 1.25rem;
+}
+/*# sourceMappingURL=mystyles.css.map */

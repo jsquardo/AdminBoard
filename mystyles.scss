@@ -1,0 +1,47 @@
+$orange: rgb(231, 100, 102);
+$green: #15cda8;
+$yellow: #f1eb9a;
+
+body {
+  background-color: #282e38;
+}
+
+.tacenter {
+  text-align: center;
+}
+
+.orange {
+  color: $orange;
+  font-size: 4.5rem;
+}
+
+.green {
+  color: $green;
+  font-size: 4.5rem;
+}
+
+.yellow {
+  color: $yellow;
+  font-size: 4.5rem;
+}
+
+.card-box {
+  margin-bottom: 0;
+}
+
+.card-box-shipped {
+  border-left: .50rem solid $green;
+}
+
+.card-box-whouse {
+  border-left: .50rem solid #f1eb9a;
+}
+
+.card-box-ready {
+  border-left: .50rem solid $orange;
+}
+
+.row-one,
+.row-two {
+  margin-bottom: 1.25rem;
+}
